@@ -4,6 +4,8 @@ DryErase is a self-hosted collaborative whiteboard platform in early development
 
 The first milestone is a fast board editor with frames, core canvas objects, visual imports, autosave, sharing, and export. Real-time shared editing and advanced facilitation come later.
 
+<img width="1007" height="1062" alt="image" src="https://github.com/user-attachments/assets/ea64898d-ee4b-4287-9b0c-56f5f4d3720e" />
+
 ## License
 
 DryErase is licensed under the GNU Affero General Public License, version 3 only (`AGPL-3.0-only`). The complete license is in [LICENSE](LICENSE).
